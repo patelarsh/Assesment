@@ -81,15 +81,9 @@ main(){
 		printf("Total Amount is = %d ",total_amount);
 		
 	}
-//	else{
-//		printf("Invalid input !!");
-//	
-//	
-//		
-//	}
-	
+
 	printf("\nDo you want place more order ? y & n: ");
-    scanf(" %c", &Yes_No);	
+   	 scanf(" %c", &Yes_No);	
 		
 	}
 	
